@@ -1,0 +1,130 @@
+{
+    "store": {
+        "name": "Pizarria do dudu",
+        "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/leopizzagT6tQa4cvkw5dtAwebp",
+        "slider": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/timages.jpg",
+        "about": "Pizza no forno á lenha tem mais sabor! (81)988447375 / (81)997473066 Siga-nos no insta: @_leopizza"
+    },
+    "category": {
+        "Novidades": [
+            {
+                "title": "Lombo e Cream Cheese",
+                "price": 23.5,
+                "description": "Molho, mussarela, lombo canadense, Cream Cheese, cebola roxa e azeitona.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4341/leopizzan4Wp7spXmSj0GXZwebp"
+            },
+            {
+                "title": "Frango com Catupiry",
+                "price": 28.9,
+                "description": "Molho, mussarela, frango desfiado e Catupiry.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4342/frango-catupiry.jpg"
+            },
+            {
+                "title": "Carne Seca com Ab\u00f3bora",
+                "price": 32.7,
+                "description": "Molho, mussarela, carne seca desfiada, ab\u00f3bora e cebola.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4343/carne-seca-abobora.jpg"
+            },
+            {
+                "title": "Camar\u00e3o com Alho-Por\u00f3",
+                "price": 45.0,
+                "description": "Molho, mussarela, camar\u00e3o refogado e alho-por\u00f3.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4344/camarao-alho-poro.jpg"
+            },
+            {
+                "title": "Pepperoni Picante",
+                "price": 29.5,
+                "description": "Molho, mussarela, pepperoni picante e azeitona.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4345/pepperoni.jpg"
+            },
+            {
+                "title": "Queijo Brie com Geleia de Damasco",
+                "price": 55.2,
+                "description": "Molho, mussarela, queijo Brie e geleia de damasco.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4346/brie-damasco.jpg"
+            }
+        ],
+        "Cl\u00e1ssicas": [
+            {
+                "title": "Margherita",
+                "price": 19.9,
+                "description": "Molho, mussarela, tomate, manjeric\u00e3o e or\u00e9gano.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4347/margherita.jpg"
+            },
+            {
+                "title": "Portuguesa",
+                "price": 28.8,
+                "description": "Molho, mussarela, presunto, ovo, cebola, piment\u00e3o e azeitona.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4348/portuguesa.jpg"
+            },
+            {
+                "title": "Calabresa",
+                "price": 22.0,
+                "description": "Molho, mussarela, calabresa fatiada, cebola e or\u00e9gano.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4349/calabresa.jpg"
+            },
+            {
+                "title": "Napolitana",
+                "price": 24.5,
+                "description": "Molho, mussarela, tomate, alho, or\u00e9gano e azeite de oliva.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4350/napolitana.jpg"
+            },
+            {
+                "title": "Mussarela",
+                "price": 18.9,
+                "description": "Molho, mussarela, or\u00e9gano e azeitona.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4351/mussarela.jpg"
+            },
+            {
+                "title": "Baiana",
+                "price": 27.0,
+                "description": "Molho, mussarela, calabresa, pimenta e cebola.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4352/baiana.jpg"
+            }
+        ],
+        "Especiais": [
+            {
+                "title": "Calabresa Especial",
+                "price": 33.9,
+                "description": "Molho, mussarela, calabresa fatiada, cebola e or\u00e9gano.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4353/calabresa-especial.jpg"
+            },
+            {
+                "title": "Quatro Queijos",
+                "price": 39.5,
+                "description": "Molho, mussarela, provolone, parmes\u00e3o e gorgonzola.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4354/quatro-queijos.jpg"
+            },
+            {
+                "title": "Vegetariana",
+                "price": 30.7,
+                "description": "Molho, mussarela, abobrinha, berinjela, piment\u00e3o e champignon.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4355/vegetariana.jpg"
+            },
+            {
+                "title": "Pizza de Parma",
+                "price": 42.9,
+                "description": "Molho, mussarela, presunto de Parma, r\u00facula e tomate seco.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4356/parma.jpg"
+            },
+            {
+                "title": "Pizza de Alcachofra",
+                "price": 37.0,
+                "description": "Molho, mussarela, alcachofra e azeitona preta.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4357/alcachofra.jpg"
+            },
+            {
+                "title": "Pizza de Fil\u00e9 Mignon",
+                "price": 58.0,
+                "description": "Molho, mussarela, fil\u00e9 mignon em tiras e champignon.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4358/file-mignon.jpg"
+            },
+            {
+                "title": "Pizza de Brie com Parma",
+                "price": 60.0,
+                "description": "Molho, queijo brie, presunto de Parma e r\u00facula.",
+                "photo": "https://s3.us-west-2.amazonaws.com/whatsmenu/production/leopizza/pizza-products/4b4359/brie-parma.jpg"
+            }
+        ]
+    }
+}
